@@ -1,3 +1,3 @@
-#looks pretty cool,
+looks pretty cool,
 
-but... Still waiting for compatible deploying on vercel!
+but... Still waiting for compatible deployment on Vercel!
