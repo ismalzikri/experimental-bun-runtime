@@ -1,0 +1,6 @@
+{
+  "include": [
+    ".eslintrc.cjs", // Include the ESLint config file
+    "src" // Adjust this to include your source files
+  ]
+}
