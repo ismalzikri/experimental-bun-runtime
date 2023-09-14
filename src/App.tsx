@@ -6,10 +6,7 @@ function App() {
       <figure>
         <img width={200} height={200} src="/bun-logo.svg" alt="bun-logo" />
       </figure>
-      <p>
-        looks pretty cool, but... Still waiting for compatible deploying on
-        vercel!
-      </p>
+      <p>Whoa! finally you adopt me as your runtime javascript.. </p>
       <a href="https://bun.sh/">read more about documentation</a>
       <br />
       <a href="https://bun.sh/guides/ecosystem/vite">
